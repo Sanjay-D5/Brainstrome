@@ -9,7 +9,7 @@ Brainstrome is a modern single-page application aimed at delivering a smooth and
 - Styled with CSS-in-JS for seamless design
 
 ## Live Demo
-Check out the live version: [Brainstrome Live]((link-to-live-demo)(https://brainstrome.vercel.app/))
+Check out the live version: [Brainstrome Live](https://brainstrome.vercel.app/)
 
 ## Technologies Used
 - ReactJS
