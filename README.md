@@ -1,3 +1,14 @@
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Key Features](#key-features)
+- [Live Demo](#live-demo)
+- [How to Install and Run](#how-to-install-and-run)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [Future Enhancements](#future-enhancements)
+- [Contact](#contact)
+
+
 ## About the Project
 Brainstrome is a modern single-page application aimed at delivering a smooth and engaging user experience. The application showcases advanced ReactJS concepts, such as state management, component-based architecture, and dynamic rendering.
 
