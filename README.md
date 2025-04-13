@@ -30,8 +30,9 @@ Check out the live version: [Brainstrome Live](https://brainstrome.vercel.app/)
 - [Add any additional libraries or tools]
 
 ## Screenshots
-![Home Page Screenshot](path-to-screenshot.png)
-![Feature Screenshot](path-to-screenshot.png)
+![image](https://github.com/user-attachments/assets/f9d93dd1-4f78-4235-8cf3-967f10e2bb10)
+
+
 
 ## Future Enhancements
 - Add dark mode support
