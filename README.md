@@ -1,5 +1,7 @@
 # Brainstrome - A Single-Page Application
-An intuitive and dynamic single-page application built with ReactJS, designed for seamless user experiences and modern web functionalities.
+> 📚 **Learning project.** Built by following a tutorial while learning **Tailwind CSS, parallax effects and responsive landing-page design in React**.
+
+An animated, single-page landing site for an AI product, built with React and Tailwind CSS.
 
 ## Table of Contents
 
@@ -19,11 +21,11 @@ Brainstrome is a modern single-page application aimed at delivering a smooth and
 
 ## Key Features
 
-- Interactive and responsive UI
-- Optimized for performance with React hooks
-- Modular and reusable component architecture
-- Dynamic routing with React Router
-- Styled with CSS-in-JS for seamless design
+- Mouse-driven parallax effects (react-just-parallax)
+- Responsive navigation with a mobile menu and scroll lock
+- Hash-based section navigation with React Router
+- Reusable section and card components
+- Styled with Tailwind CSS
 
 ## Live Demo
 
@@ -55,9 +57,11 @@ npm run dev
 
 ## Technologies Used
 
-- ReactJS
+- React
 - React Router
-- CSS-in-JS
+- Tailwind CSS
+- Vite
+- react-just-parallax, scroll-lock
 
 ## Screenshots
 
